@@ -2317,5 +2317,12 @@
         "description": "Podcast Note lets you automatically add podcast information to your notes.",
         "repo": "marcjulianschwarz/obsidian-podcast-note",
         "branch": "main"
+    },
+    {
+        "id": "obsidian-codeview",
+        "name": "JS and CSS Code Editor",
+        "author": "Zsolt Viczian",
+        "description": "A minimalistic solution to view and edit *.js and *.css files in Obsidian. Includes support for accessing css snippets and themes from the Obsidian config folder.",
+        "repo": "zsviczian/obsidian-codeeditor"
     }
 ]
